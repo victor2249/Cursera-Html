@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+  
+.row{
+    width: 100%;
+}
+
+h1{
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+h2{
+    margin-bottom: 15px;
+    text-align: center;
+    
+}
+
+.tituloMenu{
+    color: brown;
+    margin-bottom: 15px;
+    text-align: center;
+    
+}
+
+.subtitulo {
+    border:  2px;
+    background-color: darkgray;
+    width: 90%;
+    height: 250px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: 'Courier New', Courier, monospace; 
+}
+
+
+.collapsable-nav{
+    text-align: center;
+  
+}
